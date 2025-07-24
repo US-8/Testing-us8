@@ -9,4 +9,4 @@ addons:
   apt:
     update: true
 script:
-  - echo "OK8"
+  - echo "OKAY"
